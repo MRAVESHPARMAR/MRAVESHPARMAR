@@ -14,8 +14,6 @@
 - 🌱 Passionate about backend development and database-driven applications
 - 💻 Working languages: Java, Python, C, PHP
 - 🗄️ Server & database skills: MySQL, MariaDB
-- 📫 Email: your-email@example.com
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
 - 📫 GitHub: https://github.com/MRAVESHPARMAR
 
 ## 🧠 Tech Stack
@@ -49,14 +47,6 @@
 ## 🤝 Connect with me
 <a href="https://github.com/MRAVESHPARMAR" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-@MRAVESHPARMAR-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="[https://www.linkedin.com/in/avesh-parmar-05504a24b/]" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="aveshprmr@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-your--email%40example.com-D14836?style=for-the-badge&logo=gmail" />
 </a>
 
 <p align="center">
