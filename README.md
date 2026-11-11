@@ -43,10 +43,14 @@
 - Database design and optimization
 - Building reliable web applications
 - Clean, maintainable, and scalable code
-
+- 
 ## 🤝 Connect with me
 <a href="https://github.com/MRAVESHPARMAR" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-@MRAVESHPARMAR-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="[https://www.linkedin.com/in/avesh-parmar-05504a24b/]" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <p align="center">
